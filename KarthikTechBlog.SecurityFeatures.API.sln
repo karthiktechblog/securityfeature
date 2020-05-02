@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarthikTechBlog.SecurityFeatures.API", "KarthikTechBlog.SecurityFeatures.API.csproj", "{C93B49E1-692B-486F-9E0F-E4CA5BF2F7AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C93B49E1-692B-486F-9E0F-E4CA5BF2F7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93B49E1-692B-486F-9E0F-E4CA5BF2F7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93B49E1-692B-486F-9E0F-E4CA5BF2F7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93B49E1-692B-486F-9E0F-E4CA5BF2F7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77B1F59D-4E6A-4266-9581-8A70B0F9166E}
+	EndGlobalSection
+EndGlobal
